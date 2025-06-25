@@ -37,12 +37,14 @@ Criar uma interface interativa onde o usuário informa a quantidade de vitórias
 
 ## 📁 Estrutura do Projeto
 
+```
 calculadora-rankeada/
-├── README.md         # Arquivo de documentação do projeto com instruções, descrição e uso
-└── src/              # Pasta que contém todos os arquivos fonte da aplicação (código HTML, CSS e JS)
-    ├── index.html    # Página principal da aplicação; estrutura do site (HTML)
-    ├── script.js     # Código JavaScript responsável pela lógica da calculadora
-    └── style.css     # Arquivo de estilos (CSS) que define o layout, cores e aparência da interface
+├── README.md      # Arquivo de documentação do projeto com instruções, descrição e uso
+├── index.html     # Página principal da aplicação; estrutura do site (HTML)
+├── script.js      # Código JavaScript responsável pela lógica da calculadora
+└── style.css      # Arquivo de estilos (CSS) que define o layout, cores e aparência da interface
+
+```
 
 
 ## 💻 Funcionalidades
