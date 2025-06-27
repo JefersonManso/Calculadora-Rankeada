@@ -40,13 +40,13 @@ Criar uma interface interativa onde o usuário informa a quantidade de vitórias
 ```
 calculadora-rankeada/
 ├── README.md      # Arquivo de documentação do projeto com instruções, descrição e uso
+├── fluxograma     # Fluxograma
 ├── index.html     # Página principal da aplicação; estrutura do site (HTML)
 ├── script.js      # Código JavaScript responsável pela lógica da calculadora
 └── style.css      # Arquivo de estilos (CSS) que define o layout, cores e aparência da interface
 
 
 ```
-
 
 ## 💻 Funcionalidades
 
@@ -57,9 +57,14 @@ calculadora-rankeada/
 * ✅ Interface com fundo visual atrativo (imagem + degradê)
 
 ---
+## 🔄 Fluxograma do Projeto
 
-## 🚀 Como executar localmente
+Abaixo está o fluxograma que representa o funcionamento do sistema de criação de heróis:
 
+![Fluxograma do Projeto](https://github.com/JefersonManso/Calculadora-Rankeada/blob/main/fluxograma.png)
+
+---
+## 🚀 Como executar localmente 
 1. **Clone o repositório ou baixe o `.zip`**
 2. **Abra a pasta no VS Code**
 3. **Abra o arquivo `index.html` no navegador**
