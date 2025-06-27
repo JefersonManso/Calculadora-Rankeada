@@ -59,7 +59,7 @@ calculadora-rankeada/
 ---
 ## 🔄 Fluxograma do Projeto
 
-Abaixo está o fluxograma que representa o funcionamento do sistema de criação de heróis:
+Abaixo está o fluxograma que representa o funcionamento do sistema de rankeamento de heróis:
 
 ![Fluxograma do Projeto](https://github.com/JefersonManso/Calculadora-Rankeada/blob/main/fluxograma.png)
 
