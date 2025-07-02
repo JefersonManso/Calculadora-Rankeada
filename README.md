@@ -39,18 +39,21 @@ Criar uma interface interativa onde o usuário informa a quantidade de vitórias
 
 ---
 
+```
 Classificador-Heroico
-├── index.html        # arquivo principal com a estrutura da página
+├── index.html   # arquivo principal com a estrutura da página
 ├── README.md
 ├── assets/
 │   └── fluxograma.png
 └── src/
-    ├── style.css     # arquivo de estilo que define layout, cores e posicionamento
-    └── script.js     # lógica para classificar o nível do jogador e manipular as imagens
+    ├── style.css   # arquivo de estilo que define layout, cores e posicionamento
+    └── script.js   # lógica para classificar o nível do jogador e manipular as imagens
+
+
+
+```
 
 ---
-
-
 
 ## 💻 Funcionalidades
 
