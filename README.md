@@ -37,14 +37,19 @@ Criar uma interface interativa onde o usuário informa a quantidade de vitórias
 
 ## 📁 Estrutura do Projeto
 
-```
-calculadora-rankeada/
-├── README.md      # Arquivo de documentação do projeto com instruções, descrição e uso
-├── index.html     # Página principal da aplicação; estrutura do site (HTML)
-├── script.js      # Código JavaScript responsável pela lógica da calculadora
-└── style.css      # Arquivo de estilos (CSS) que define o layout, cores e aparência da interface
+---
 
-```
+Classificador-Heroico
+├── index.html        # arquivo principal com a estrutura da página
+├── README.md
+├── assets/
+│   └── fluxograma.png
+└── src/
+    ├── style.css     # arquivo de estilo que define layout, cores e posicionamento
+    └── script.js     # lógica para classificar o nível do jogador e manipular as imagens
+
+---
+
 
 
 ## 💻 Funcionalidades
@@ -54,6 +59,17 @@ calculadora-rankeada/
 * ✅ Determinação do nível baseado nas vitórias
 * ✅ Exibição de mensagem com resultado formatado
 * ✅ Interface com fundo visual atrativo (imagem + degradê)
+
+---
+
+---
+## 🔄 Fluxograma do Projeto
+
+Abaixo está o fluxograma que representa o funcionamento da aplicação:
+
+
+![Fluxograma do Projeto](assets/fluxograma.png)
+
 
 ---
 
@@ -87,6 +103,13 @@ Derrotas: 23
 ```
 O Herói tem de saldo de 55 está no nível de Ouro
 ```
+
+---
+
+
+### LINK do projeto:  
+👉 ## [Acesse o projeto aqui](https://jefersonmanso.github.io/Calculadora-Rankeada/)
+
 
 ---
 
